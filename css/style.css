@@ -7,6 +7,8 @@
 @media screen and (min-width: 992px) {
   .Heading {
     margin: 10%;
+    font-size: larger;
+
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -90,6 +92,8 @@
   .Heading {
     margin: 10%;
     justify-content: center;
+    font-size: larger;
+
     align-items: center;
     text-align: center;
   }
@@ -174,6 +178,8 @@
   .Heading {
     position: relative;
     left: 25%;
+
+    font-size: larger;
 
     margin: 10%;
     width: 40%;
